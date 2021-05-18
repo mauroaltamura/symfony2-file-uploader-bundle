@@ -17,7 +17,8 @@
 	],
 	"require": {
 		"php": ">=5.3.2",
-		"symfony/framework-bundle": "2.*"
+		"symfony/framework-bundle": "3.*",
+		"sensiolabs-de/deprecation-detector": "dev-master"
 	},
 	"autoload": {
 		"psr-0": { "PunkAve\\FileUploaderBundle": "" }
